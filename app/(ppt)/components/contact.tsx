@@ -112,7 +112,7 @@ export default function Contact() {
             <div className="grid grid-cols-2 gap-4">
               {[
                 { type: "公众号", image: "/wechat_official_qr.jpg" },
-                { type: "商务合作", image: "/images/summer.jpg" }
+                { type: "商务合作", image: "/images/jeff_qr.png" }
               ].map((item) => (
                 <div
                   key={item.type}
